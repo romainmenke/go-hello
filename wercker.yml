@@ -14,5 +14,5 @@ build:
           go test
   after-steps:
     - romainmenke/universal-notifier:
-        host: "https://www.google.blah"
-        port: "80"
+        host: "https://still-crag-77600.herokuapp.com"
+        port: "50051"
