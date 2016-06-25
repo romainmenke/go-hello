@@ -12,8 +12,7 @@ build:
         name: go test
         code: |
           go test
-  # after-steps:
-  #   - slack-notifier:
-  #       url: $SLACK_URL
-  #       channel: cfda
-  #       notify_on: failed
+  after-steps:
+    - romainmenke/universal-notifier:
+        url: ""
+        port: "80"
