@@ -14,5 +14,5 @@ build:
           go test
   after-steps:
     - romainmenke/universal-notifier:
-        url: ""
+        host: "https://www.google.com"
         port: "80"
