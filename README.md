@@ -1,8 +1,6 @@
 <p align="center">
 	<br>
-  <object type="image/svg+xml" data="https://raw.githubusercontent.com/romainmenke/hearts/master/db/heart/github.com/romainmenke/go-hello.svg">
-    Your browser does not support SVG
-  </object>
+    <a href="http://github.com/romainmenke/hearts"><img src="https://rawgithub.com/romainmenke/hearts/master/db/heart/github.com/romainmenke/go-hello.svg" alt="Hearts" /></a>
 </p>
 
 Some Readme
