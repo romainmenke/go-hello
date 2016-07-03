@@ -5,7 +5,6 @@ import (
 )
 
 func main() {
-	bug
 	fmt.Println("Hello World")
 }
 
